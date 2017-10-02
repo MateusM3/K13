@@ -1,0 +1,60 @@
+.dark-primary-color    { background: #0F1BB2; }
+.default-primary-color { background: #2196F3; }
+.light-primary-color   { background: #BBDEFB; }
+.text-primary-color    { color: #FFFFFF; }
+.accent-color          { background: #F8C623; }
+.primary-text-color    { color: #212121; }
+.secondary-text-color  { color: #757575; }
+.divider-color         { border-color: #BDBDBD; }
+
+h3{
+    font-family:"Bernard MT";
+    color: #1976D2;;
+}
+ h5 {
+     font-weight: bold;
+     color: #0F1BB2;;
+     text-decoration: none;
+     display: block;
+     letter-spacing:1px;
+
+
+}
+h4 {
+    text-align: center;
+    font-family:"Bernard MT";
+    letter-spacing: 1px;
+    color: #ffffff;
+}
+ p{
+     font-family:"Times New Roman"
+
+ }
+
+ /*Area de login*/
+body {
+    /*background-image: url('../../../pictures/fundolog.jpg');*/
+    background:#e6e6e6;
+    background-repeat: no-repeat;
+    background-size:100%;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+.conteudo{
+    background: #fefefe;
+}
+
+
+
+
+
+
